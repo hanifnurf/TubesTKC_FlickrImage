@@ -1,2 +1,2 @@
-# TubesTKC_Cifar10
+# TubesTKC_Flick Image Dataset
 Tugas besar Temu Kembali Citra
